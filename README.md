@@ -1,3 +1,15 @@
+# Job Market & AI Skills Trends 2025
+
+## Project Overview
+This project analyzes the 2025 job market focusing on AI and data-related skills. Using SQL, it identifies top in-demand skills, skill growth over time, and industries hiring AI-skilled workers.
+
+## Objectives
+- Identify the most in-demand AI/Data skills in 2025
+- Compare skill demand growth from 2020 to 2025
+- Determine which industries are hiring the most AI-skilled workers
+
+## Repository Structure
+
 ## Datasets
 **job_postings_sample.csv** - Contains job postings with fields: job_id, title, company, industry, location, posting_date  
 **job_skills_sample.csv** - Contains skills required for each job with fields: skill_id, job_id, skill  
